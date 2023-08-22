@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Mykhailo Goldenberg",
+	"description": "Deploying basic app to show some backend skills",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
