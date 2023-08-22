@@ -4,6 +4,7 @@
 	"description": "Deploying basic app to show some backend skills",
 	"keywords": ["npm", "freecodecamp", "backend", "deploy"],
 	"license": "MIT",
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
